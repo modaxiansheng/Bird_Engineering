@@ -1,0 +1,11 @@
+Class:xiaopiti7, Box: 659 781 470 562
+Class:haiou2, Box: 963 1063 53 292
+Class:haiou2, Box: 1237 1329 559 633
+Class:bailu1, Box: 1239 1333 561 634
+Class:haiou2, Box: 1390 1462 553 594
+Class:heizuiou3, Box: 1245 1443 106 244
+Class:bailu1, Box: 387 479 37 241
+Class:baiqueling0, Box: 98 200 67 210
+Class:haiou2, Box: 713 863 125 211
+Class:heizuiou3, Box: 951 1075 59 296
+Class:luzi5, Box: 79 258 424 568

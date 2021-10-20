@@ -1,0 +1,10 @@
+Class:xiaopiti7, Box: 304 318 234 246
+Class:xiaopiti7, Box: 345 359 238 249
+Class:xiaopiti7, Box: 632 655 231 243
+Class:xiaopiti7, Box: 390 400 241 251
+Class:xiaopiti7, Box: 372 382 239 249
+Class:haiou2, Box: 440 453 241 255
+Class:haiou2, Box: 303 315 288 299
+Class:haiou2, Box: 539 553 295 309
+Class:haiou2, Box: 32 54 262 275
+Class:haiou2, Box: 290 304 276 289

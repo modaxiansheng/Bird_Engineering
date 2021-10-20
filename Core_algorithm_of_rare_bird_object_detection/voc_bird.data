@@ -1,0 +1,6 @@
+classes= 10
+
+
+names = voc_bird.names
+backup = backup/
+

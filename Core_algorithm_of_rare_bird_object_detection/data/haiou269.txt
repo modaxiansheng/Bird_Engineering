@@ -1,0 +1,7 @@
+Class:haiou2, Box: 39 136 35 98
+Class:haiou2, Box: 234 332 54 95
+Class:haiou2, Box: 256 384 98 136
+Class:haiou2, Box: 2 67 54 134
+Class:haiou2, Box: 230 357 78 112
+Class:haiou2, Box: 354 429 76 131
+Class:haiou2, Box: 252 376 129 224
